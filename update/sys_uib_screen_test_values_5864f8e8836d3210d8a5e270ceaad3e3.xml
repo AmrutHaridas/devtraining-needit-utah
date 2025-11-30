@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent/>
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": null,
+        "fields": null,
+        "forcedViewName": "",
+        "inputExtraParams": null,
+        "inputQuery": null,
+        "inputSysId": "78efe18c83e9f610d8a5e270ceaad36b",
+        "inputTable": "sn_customerservice_case",
+        "screen": null,
+        "selectedTabIndex": 0,
+        "shouldDisplayFormErrorsAsPageAlerts": true,
+        "userPrefs": null,
+        "view": "workspace"
+    },
+    "a4a0fbae64611110fa9baad96557fb37": {
+        "inputIsLoading": false,
+        "inputRibbonLocation": "sidebar",
+        "inputSecondaryItems": [
+            {
+                "label": "Consumer",
+                "value": {
+                    "type": "text-link",
+                    "label": "Gilly Parker",
+                    "href": "javascript:void(0)",
+                    "value": "59e788fbdb1b1200b6075200cf9619d2",
+                    "data": {
+                        "fieldName": "consumer",
+                        "fieldLabel": "Consumer",
+                        "displayValue": "Gilly Parker",
+                        "highlightedValueStyle": null,
+                        "table": "csm_consumer",
+                        "sysId": "59e788fbdb1b1200b6075200cf9619d2",
+                        "type": "reference"
+                    }
+                }
+            },
+            {
+                "label": "Priority",
+                "value": {
+                    "type": "highlighted-value",
+                    "label": "4 - Low",
+                    "status": "positive",
+                    "showIcon": true,
+                    "icon": "",
+                    "data": {
+                        "fieldName": "priority",
+                        "fieldLabel": "Priority",
+                        "displayValue": "4 - Low",
+                        "referenceItem": null,
+                        "status": "positive",
+                        "showIcon": true,
+                        "variantName": "tertiary",
+                        "colorName": "positive",
+                        "iconName": "",
+                        "type": "highlighted"
+                    }
+                }
+            },
+            {
+                "label": "State",
+                "value": {
+                    "type": "string",
+                    "value": "New",
+                    "data": {
+                        "fieldName": "state",
+                        "fieldLabel": "State",
+                        "displayValue": "New",
+                        "highlightedValueStyle": null,
+                        "referenceItem": null,
+                        "type": "simple"
+                    }
+                }
+            }
+        ],
+        "inputSecondaryLocation": "sidebar",
+        "isNewRecord": false
+    },
+    "ff29f706f8266110f8779039584d84c2": {
+        "sysId": "78efe18c83e9f610d8a5e270ceaad36b",
+        "tableName": "sn_customerservice_case"
+    },
+    "819f84251b347910a96e76a9cc4bcbc0": {},
+    "table": "x_58872_needit_needit",
+    "listTitle": "Open NeedIts",
+    "query": "state=13",
+    "listView": null
+}</macroponent_config>
+        <screen display_value="Simple List">1c64f8e8836d3210d8a5e270ceaad3de</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-27 23:41:08</sys_created_on>
+        <sys_id>5864f8e8836d3210d8a5e270ceaad3e3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_5864f8e8836d3210d8a5e270ceaad3e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-28 23:16:36</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
